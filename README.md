@@ -1,13 +1,13 @@
 # SCT_DS_1
 SkillCraft Technology Task 1:Visualizing student demographic data using bar charts and histogram
 Student Data Anlysis Dashboard
-🔗Project Overview
+Project Overview
 This project focuses on visualizing student demographic data using basic data visualization techniques. The goal is to analyze and present the distribution of students based on gender and age through appropriate graphical representations.
 Using bar charts for categorical data and histograms/grouped charts for continuous data, the project demonstrates how visual analysis can simplify complex datasets and reveal meaningful patterns. These visualizations help in understanding student composition and support effective data-driven insights.
-🧾 Dataset Information
+Dataset Information
 The Student Performance Data dataset is sourced from Kaggle and contains student demographic and academic performance records intended for exploratory data analysis and visualization.  
 
-🔗Key Attributes
+Key Attributes
 Student age
 Gender (Sex)
 School (GP, MS)
