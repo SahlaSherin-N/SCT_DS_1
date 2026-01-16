@@ -1,42 +1,30 @@
-# SCT_DS_1
-Task 1:Visualizing student demographic data using bar charts and histogram
-Student Data Anlysis Dashboard
-🔗Project Overview:
-This project visualizes student demographic data to analyze the distribution of gender and age using basic data visualization techniques.
-
-🔗Dataset Information:
-The Student Performance Data dataset is sourced from Kaggle and contains student demographic and academic performance records intended for exploratory data analysis and visualization.  
-
-🔗Key Attributes:
-Student age
-Gender (Sex)
-School (GP, MS)
-The dataset is used as the primary source for creating the dashboard visualizations
-🔗 Dashboard Components:
-🔗1.Distribution of Students by Gender 
-Displays the count of students based on gender.
-Helps identify gender balance across the dataset.
-🔗2.Age Distribution of Students 
-Visualizes student count across different age groups.
-Helps understand the age range and concentration of students.
-🔗Tools :
-Tableau – For data visualization and dashboard creation
-🔗Project Files:
-student_data.csv – Dataset used for analysis
-Student_Data_analysis.twbx – Tableau packaged workbook
-Dashboard Screenshot – Visual preview of the analysis
-🔗How to Use the Project:
-1.Open Tableau Desktop.
-2.Load the file Student_Data_analysis.twbx.
-3.Interact with the dashboard to explore student data insights.
-🔗Key Insights from the Dashboard:
-1.Gender Distribution
-The bar chart shows the distribution of students by gender.Female students slightly outnumber male students in the dataset.This indicates a relatively balanced gender composition with a small female majority.
-2.Age Distribution
-The age distribution chart highlights how students are spread across different age groups.Most students fall within the 16–18 age range, showing a clear concentration in this group.Very few students are observed outside this age range, indicating a fairly uniform age structure.
-🔗Conclusion:
-This dashboard provides a simple yet effective way to analyze student data visually
-🔗 Author :
+# Student Data Analysis – Task 01
+#Internship Task – SkillCraft Technology
+This repository contains Task 01 of my internship at SkillCraft Technology, focused on data visualization using a bar chart and a histogram.
+#Task Description
+The objective of this task is to create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as:
+Gender distribution (categorical)
+Age distribution (continuous)
+#Visualizations Included
+#Bar Chart – Distribution of Students by Gender
+Displays the total number of male and female students
+Helps in understanding gender-wise distribution clearly
+#Histogram – Age Distribution of Students
+Shows how students are distributed across different age groups
+Helps identify common age ranges and trends
+# Tools 
+Tableau 
+# Dataset
+Sample student dataset containing:
+Age
+Gender
+(Dataset used only for educational and internship purposes.)
+#Key Learnings
+Understanding the difference between bar charts and histograms
+Visualizing categorical vs continuous data
+Creating clean and readable charts
+Improving data interpretation skills
+#Conclusion
+This task helped me strengthen my basics in data visualization and understand how graphical representations make data insights easier to analyze.
+#Author
 Sahla Sherin.N
-
-
