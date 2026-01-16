@@ -1,4 +1,5 @@
 # Student Data Analysis – Task 01
+
 #Internship Task – SkillCraft Technology
 
 
@@ -11,7 +12,6 @@ Age distribution (continuous)
 
 
 #Visualizations Included
-
 
 #Bar Chart – Distribution of Students by Gender
 Displays the total number of male and female students
@@ -35,6 +35,7 @@ Understanding the difference between bar charts and histograms
 Visualizing categorical vs continuous data
 Creating clean and readable charts
 Improving data interpretation skills
+
 ##Conclusion
 This task helped me strengthen my basics in data visualization and understand how graphical representations make data insights easier to analyze.
 
