@@ -24,7 +24,7 @@ Understanding the difference between bar charts and histograms
 Visualizing categorical vs continuous data
 Creating clean and readable charts
 Improving data interpretation skills
-#Conclusion
+##Conclusion
 This task helped me strengthen my basics in data visualization and understand how graphical representations make data insights easier to analyze.
-#Author
+##Author
 Sahla Sherin.N
