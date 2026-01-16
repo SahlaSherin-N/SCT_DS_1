@@ -40,4 +40,5 @@ Improving data interpretation skills
 This task helped me strengthen my basics in data visualization and understand how graphical representations make data insights easier to analyze.
 
 Author
+
 Sahla Sherin.N
